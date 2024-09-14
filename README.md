@@ -1,2 +1,2 @@
 # SWIPT-constellations
-Study of PAPR-dmin and SEP behavior of different constellations for SWIPT systems
+SWIPT,Simultaneous Wireless Information and Power transfer, systems are used to transmit information and at the same time harvest energy. On the ne hand in order to have a good energy harvesting performance, we need high PAPR-dmin ratio, but on the other we need big dmin to have small Symbol Error Rate, thus a good info transmission performance. In this repository, I will present my work on this subject studying the energy harvesting-infrmation trade off. First, I studied the behavior of the basic constellations PAM, QAM , PSK, then I compare it with CQAM and spike-QAM behavior in terms of PAPR-dmin and SEP performance.
